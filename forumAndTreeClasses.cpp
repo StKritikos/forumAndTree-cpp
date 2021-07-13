@@ -2,7 +2,7 @@
 #include <string>
 #include <time.h>
 #include <stdlib.h>
-#include "forum_and_tree.h"
+#include "forumAndTreeClasses.h"
 #include "helper.h" 
 using namespace std;
 using namespace Helper;
