@@ -1,4 +1,4 @@
-#include "forum_and_tree.h"
+#include "forumAndTreeClasses.h"
 
 int main()
 {
